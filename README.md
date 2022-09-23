@@ -33,3 +33,5 @@ Loan enquiry system aspires to simplify, make transparent, and make personal fin
 
 
 **End Product :**
+
+Loan Enquiry System would provide users with immediate, personalized rate quotes on loans. Users can search, compare current rates, and select the best option for themselves.
