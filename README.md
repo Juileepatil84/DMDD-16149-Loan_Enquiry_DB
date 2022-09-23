@@ -12,7 +12,7 @@
 
 **Project Description :**
 
-Loan enquiry system aspires to simplify, make transparent, and make personal finance decisions conveniently. It will compare rate of interest of financial institutes and help customers who are seeking to choose lowest EMI on loans and looking to avail the best offeres in the market.
+Loan enquiry system aspires to simplify, make transparent and make personal finance decisions conveniently. It will compare rate of interest of financial institutes and help customers who are seeking to choose lowest EMI on loans and looking to avail the best offeres in the market.
 
 
 **The loan database will consists of various parameters which are related to :** 
