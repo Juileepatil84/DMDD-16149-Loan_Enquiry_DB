@@ -25,6 +25,10 @@ Loan enquiry system aspires to simplify, make transparent, and make personal fin
 
 
 **Blueprint :**
+
+
+
+
 <img width="503" alt="image" src="https://user-images.githubusercontent.com/112820037/191874143-befc5fae-ff5f-4fac-8bab-a4d1b59764a6.png">
 
 
