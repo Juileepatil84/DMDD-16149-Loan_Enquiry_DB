@@ -5,9 +5,9 @@
 
 **Team Members :**
 
-               Juilee Patil             | patil.ju@northeastern.edu
-               Dhriti Sunil Kanchan     | kanchan.dh@northeastern.edu
-               Jayesh Tak               | tak.j@northeastern.edu
+               Juilee Patil             | xxx.x@xxx.edu
+               Dhriti Sunil Kanchan     | xxx.x@xxx.edu
+               Jayesh Tak               | xxx.x@xxx.edu
 
 
 **Project Description :**
